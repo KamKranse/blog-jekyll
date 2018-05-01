@@ -1,8 +1,8 @@
-https://www.mattgreydesign.com/* http://localhost:4000/:splat 301!
-https://mattgreydesign.com/* http://localhost:4000/:splat 301!
-http://www.mattgreydesign.com/* http://localhost:4000/:splat 301!
-http://mattgreydesign.com/* http://localhost:4000/:splat 301!
-/blog/* http://localhost:4000/:splat 301
+https://www.mattgreydesign.com/* https://kamkranse.com/:splat 301!
+https://mattgreydesign.com/* https://kamkranse.com/:splat 301!
+http://www.mattgreydesign.com/* https://kamkranse.com/:splat 301!
+http://mattgreydesign.com/* https://kamkranse.com/:splat 301!
+/blog/* https://kamkranse.com/:splat 301
 
 /portfolio / 301
 /projects / 301
