@@ -1,0 +1,83 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+plugins:
+  - bourbon
+  - neat
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+include:
+  - _pages
+  - _redirects
+
+# Site settings
+title: Kam Kranse
+email: kam.Kranse@gmail.com
+description: "Personal Website of Kameron Kranse"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kamkranse.com" # the base hostname & protocol for your site
+timezone: United States/Denver
+year: 2018
+sitemap: true
+
+# Social networks
+social-username:
+  twitter: "@kamkranse"
+  linkedin: "kamkranse"
+  github: "kamkranse"
+  spotify: "kck17288"
+
+# Content
+image_serve_path: "/images" # <img src="{{ site.image_serve_path }}/projects/img.jpg">
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# Sass output
+sass:
+  style: compressed # :nested :compact :expanded :compressed
+
+compress_html: # http://jch.penibelst.de/
+  enabled: true # compress html
+  clippings: all # clip safe tags
+  blanklines: false # boolean - strip blank lines and breaks
+  #profile: true # boolean - print table of data saved
+  #ignore:
+  #envs: [local]
+
+# Structure
+navigation:
+  - title: About
+    url: /
+  - title: Projects
+    url: /projec
+
+
+
+permalink: /:title/
+
+# Configure site collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
