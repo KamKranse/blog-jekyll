@@ -23,7 +23,7 @@ include:
 title: Kam Kranse
 email: kam.Kranse@gmail.com
 description: "Personal Website of Kameron Kranse"
-baseurl: "/blog-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog or /blog-jekyll
 url: "https://kamkranse.com" # the base hostname & protocol for your site
 timezone: United States/Denver
 year: 2018
