@@ -5,7 +5,7 @@
 
   <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2018-05-02</lastmod>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,11 +21,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/projects/Anne%20Pro%20Modifications/</loc>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:4000/projects/Beartooth%20Radio/</loc>
     <priority>0.7</priority>
   </url>
@@ -36,37 +31,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/projects/Constant%20Online%20Presence%20with%20IRC/</loc>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/projects/Hammock%20Stand/</loc>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/projects/KamKranse.com/</loc>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/projects/PWM%20signal%20from%20input%20embedded%20systems/</loc>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:4000/projects/RocketCocks/</loc>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/projects/Thermoelectric%20cooler/</loc>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/projects/ski-solutions/</loc>
     <priority>0.7</priority>
   </url>
   

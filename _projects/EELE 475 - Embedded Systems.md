@@ -1,7 +1,7 @@
 ---
 date: 2017-6-1
-published: True
-title: "Beartooth Radio"
+published: False
+title: "Ski Solutions"
 description: "Responsive experience redesign for a tailor-made ski tour operator"
 categories: website, ux, mobile
 disciplines: UX, Responsive web design, HTML/CSS
